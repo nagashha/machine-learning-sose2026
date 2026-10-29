@@ -1,0 +1,16 @@
+# Practicals + Airbnb project
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3
+jupyter
+
+# Practicals 2 and 3 (PyTorch)
+torch>=2.2
+torchvision>=0.17
+torchsummary>=1.5
+tqdm>=4.66
+ipywidgets>=8.0

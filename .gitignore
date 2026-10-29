@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Data (large or downloadable - see the data/README.md files)
+practicals/data/*.csv
+practicals/**/data/cifar-10-batches-py/
+practicals/**/data/*.tar.gz
+airbnb-price-prediction/data/raw/
+airbnb-price-prediction/data/processed/
+
+# Trained models (reproducible from code + seed)
+airbnb-price-prediction/outputs/models/
+*.joblib

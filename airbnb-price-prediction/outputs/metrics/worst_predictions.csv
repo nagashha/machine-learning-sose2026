@@ -1,0 +1,11 @@
+name,neighbourhood_cleansed,room_type,accommodates,price,predicted_eur,abs_err_eur
+Double bed in Sullivan,Dublin City,Private room,2,723.0,123.1,599.9
+New Luxury Seaview Apt in Dublin 15 min to Centre,Dn Laoghaire-Rathdown,Entire home/apt,7,830.0,328.5,501.5
+5 bed - 20 minute walk to the Aviva Stadium,Dublin City,Entire home/apt,10,990.0,516.3,473.7
+"Myra Manor, Malahide, Co Dublin",Fingal,Entire home/apt,10,975.0,577.5,397.5
+Cozy Cottage with Twin Beds,Fingal,Private room,2,881.0,494.4,386.6
+10 POD Mixed Dorm Ensuite  - entire dorm,Dublin City,Private room,10,683.0,343.7,339.3
+Malahide Exclusive Home near Airport & Beach,Fingal,Entire home/apt,6,594.0,258.1,335.9
+Modern 4 bed house 3.5km from Dublin City Sleeps 9,Dn Laoghaire-Rathdown,Entire home/apt,9,800.0,464.4,335.6
+Perfectly Located City Home,Dublin City,Entire home/apt,4,750.0,423.2,326.8
+Sonder at Britain Quay | 2BR Apartment w/ Balcony,Dublin City,Entire home/apt,4,531.0,229.4,301.6

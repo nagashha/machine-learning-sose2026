@@ -1,6 +1,5 @@
 # Machine Learning - Coursework (Summer 2026)
 
-🇹🇷 [Türkçe açıklama için buraya tıklayın → README.tr.md](README.tr.md)
 
 My coursework for the **Machine Learning** course at the University of Göttingen
 (summer term 2026), done in a group of three. It goes from linear regression written by
@@ -48,9 +47,7 @@ pip install -r requirements.txt
   A small sample is included, so `AIRBNB_RAW_CSV=data/sample/listings_sample.csv` lets you
   test the whole pipeline in seconds.
 
-## Team
 
-Muhammed Nagaş · Felix Fischer · Niclas Langer
 
 ## Acknowledgements
 
